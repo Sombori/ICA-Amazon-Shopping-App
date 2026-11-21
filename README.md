@@ -19,7 +19,7 @@ The **Amazon Shopping App** is a mobile-focused web shopping experience that hel
 
 | # | Feature | Description | Owner Name | Student ID |
 |---|---------|-------------|------------|------------|
-| 1 | **Search and Browse** | Search by product name or keyword, browse categories, and view matching products. | `[Teammate Name]` | `[ID]` |
+| 1 | **Search and Browse** | Search by product name or keyword, browse categories, and view matching products. | Abdelrahman Sameh | 19006344 |
 | 2 | **Product Details** | View product images, price, description, availability, ratings, and reviews. | `[Teammate Name]` | `[ID]` |
 | 3 | **Shopping Cart** | Add products, change quantities, remove items, and review the order total. | Adam Mohamed | `19004861` |
 | 4 | **Checkout and Payment** | Choose a delivery address and payment method, review the order, and place it. | `[Teammate Name]` | `[ID]` |
