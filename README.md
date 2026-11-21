@@ -24,7 +24,7 @@ The **Amazon Shopping App** is a mobile-focused web shopping experience that hel
 | 4 | **Checkout and Payment** | Choose a delivery address and payment method, review the order, and place it. | `[Teammate Name]` | `[ID]` |
 | 5 | **Orders and Tracking** | View previous/current orders and check delivery progress and estimated arrival. | `[Teammate Name]` | `[ID]` |
 | 6 | **Wishlist** | Save products for later, move saved items to the cart, and remove items when no longer needed. | Saeed Ahmed | `19004293` |
-| 7 | **Notifications** | Receive updates about important account activities, order progress, and special offers. | `[Teammate Name]` | `[ID]` |
+| 7 | **Notifications** | Receive updates about important account activities, order progress, and special offers. | Abdelrahman Ghazal | `19004556` |
 
 ---
 
