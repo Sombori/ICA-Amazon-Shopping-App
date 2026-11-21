@@ -1,7 +1,8 @@
 # Amazon Shopping App — BINF 301 Course Project
 
 **Course:** Information and Communication Architecture (BINF 301) — GIU  
-**Team ID:** ICA Project — Amazon Shopping App  
+**Team ID** 14
+**Project Name:** Amazon Shopping App  
 **Point of Contact:** `[Abdelrahman Ghazal]` (`[19004556]`)
 
 ---
