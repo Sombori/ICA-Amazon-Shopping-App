@@ -2,7 +2,7 @@
 
 **Course:** Information and Communication Architecture (BINF 301) — GIU  
 **Team ID:** ICA Project — Amazon Shopping App  
-**Point of Contact:** `[Name]` (`[Student ID]`)
+**Point of Contact:** `[Abdelrahman Ghazal]` (`[19004556]`)
 
 ---
 
