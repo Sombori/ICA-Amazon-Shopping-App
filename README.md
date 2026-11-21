@@ -19,13 +19,13 @@ The **Amazon Shopping App** is a mobile-focused web shopping experience that hel
 
 | # | Feature | Description | Owner Name | Student ID |
 |---|---------|-------------|------------|------------|
-| 1 | **Search and Browse** | Search by product name or keyword, browse categories, and view matching products. | Abdelrahman Sameh | 19006344 |
-| 2 | **Product Details** | View product images, price, description, availability, ratings, and reviews. | `[Teammate Name]` | `[ID]` |
+| 1 | **Search and Browse** | Search by product name or keyword, browse categories, and view matching products. | Abdelrahman Sameh | `19006344` |
+| 2 | **Product Details** | View product images, price, description, availability, ratings, and reviews. | Mahmoud Kalash | `19005706` |
 | 3 | **Shopping Cart** | Add products, change quantities, remove items, and review the order total. | Adam Mohamed | `19004861` |
-| 4 | **Checkout and Payment** | Choose a delivery address and payment method, review the order, and place it. | `[Teammate Name]` | `[ID]` |
-| 5 | **Orders and Tracking** | View previous/current orders and check delivery progress and estimated arrival. | `[Teammate Name]` | `[ID]` |
+| 4 | **Checkout and Payment** | Choose a delivery address and payment method, review the order, and place it. | Abdulrahman Izazi | `19008996` |
+| 5 | **Orders and Tracking** | View previous/current orders and check delivery progress and estimated arrival. |Abdelrahman Ghazal | `19004556` |
 | 6 | **Wishlist** | Save products for later, move saved items to the cart, and remove items when no longer needed. | Saeed Ahmed | `19004293` |
-| 7 | **Notifications** | Receive updates about important account activities, order progress, and special offers. | Abdelrahman Ghazal | `19004556` |
+| 7 | **Notifications** | Receive updates about important account activities, order progress, and special offers. | Omar Gohar | `19008090` |
 
 ---
 
